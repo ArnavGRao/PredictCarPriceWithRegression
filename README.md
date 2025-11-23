@@ -1,5 +1,11 @@
 # Car Price Prediction with Machine Learning
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1+-orange.svg)](https://scikit-learn.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ArnavGRao/PredictCarPriceWithRegression/graphs/commit-activity)
+
 A comprehensive machine learning project that predicts car prices using various regression algorithms. This project demonstrates data preprocessing, feature engineering, model comparison, and hyperparameter tuning techniques.
 
 ## 🚗 Project Overview
@@ -106,7 +112,13 @@ The final Random Forest model provides:
 2. **Install required packages**:
 
    ```bash
-   pip install pandas numpy scikit-learn matplotlib
+   pip install -r requirements.txt
+   ```
+
+   Or install manually:
+
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib scipy seaborn
    ```
 
 3. **Run the main script**:
@@ -150,11 +162,12 @@ The project includes comprehensive model evaluation:
 
 This project demonstrates:
 
-- **End-to-end ML pipeline** from data loading to model deployment
-- **Proper data preprocessing** techniques for mixed data types
-- **Model comparison** and selection methodology
-- **Hyperparameter optimization** using grid search
-- **Custom transformer creation** for specialized preprocessing needs
+- 🔄 **End-to-end ML pipeline** from data loading to model evaluation
+- 🧹 **Proper data preprocessing** techniques for mixed data types
+- ⚖️ **Model comparison** and selection methodology
+- 🎯 **Hyperparameter optimization** using grid search
+- 🔧 **Custom transformer creation** for specialized preprocessing needs
+- 📊 **Professional project structure** with proper documentation
 
 ## 👨‍💻 Author
 
@@ -175,9 +188,11 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 
 Potential improvements for this project:
 
-- Add more sophisticated feature engineering techniques
-- Experiment with advanced algorithms (XGBoost, Neural Networks)
-- Implement feature selection methods
-- Add model interpretability tools (SHAP values)
-- Create a web interface for price predictions
-- Add data visualization dashboards
+- 🚀 Add more sophisticated feature engineering techniques
+- 🤖 Experiment with advanced algorithms (XGBoost, Neural Networks)
+- 🎯 Implement feature selection methods
+- 🔍 Add model interpretability tools (SHAP values)
+- 🌐 Create a web interface for price predictions
+- 📈 Add interactive data visualization dashboards
+- 🔄 Implement automated model retraining pipeline
+- ☁️ Deploy model to cloud platforms (AWS, Azure, GCP)
