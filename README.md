@@ -4,9 +4,9 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1+-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ArnavGRao/PredictCarPriceWithRegression/graphs/commit-activity)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Project-blue.svg)](https://github.com/ArnavGRao/PredictCarPriceWithRegression)
 
-A comprehensive machine learning project that predicts car prices using various regression algorithms. This project demonstrates data preprocessing, feature engineering, model comparison, and hyperparameter tuning techniques.
+**Portfolio Project**: A comprehensive machine learning project that predicts car prices using various regression algorithms. This project demonstrates data preprocessing, feature engineering, model comparison, and hyperparameter tuning techniques for showcase to potential employers.
 
 ## 🚗 Project Overview
 
@@ -160,7 +160,7 @@ The project includes comprehensive model evaluation:
 
 ## 🎯 Key Learnings
 
-This project demonstrates:
+This portfolio project demonstrates:
 
 - 🔄 **End-to-end ML pipeline** from data loading to model evaluation
 - 🧹 **Proper data preprocessing** techniques for mixed data types
@@ -168,6 +168,7 @@ This project demonstrates:
 - 🎯 **Hyperparameter optimization** using grid search
 - 🔧 **Custom transformer creation** for specialized preprocessing needs
 - 📊 **Professional project structure** with proper documentation
+- 💼 **Industry-standard practices** for machine learning projects
 
 ## 👨‍💻 Author
 
@@ -180,19 +181,33 @@ This project demonstrates:
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
+## 📝 Portfolio Note
 
-Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
+This is a **completed portfolio project** designed to showcase machine learning skills and best practices. It demonstrates proficiency in Python, scikit-learn, data preprocessing, model evaluation, and professional project structure. The project is feature-complete and not actively maintained for new development.
 
-## 📚 Future Enhancements
+**For Employers**: This project showcases experience with:
 
-Potential improvements for this project:
+- Machine Learning model development and evaluation
+- Data preprocessing and feature engineering
+- Professional Python code structure and documentation
+- Git version control and project organization
+- Industry-standard ML practices and methodologies
 
-- 🚀 Add more sophisticated feature engineering techniques
-- 🤖 Experiment with advanced algorithms (XGBoost, Neural Networks)
-- 🎯 Implement feature selection methods
-- 🔍 Add model interpretability tools (SHAP values)
-- 🌐 Create a web interface for price predictions
-- 📈 Add interactive data visualization dashboards
-- 🔄 Implement automated model retraining pipeline
-- ☁️ Deploy model to cloud platforms (AWS, Azure, GCP)
+## 🚀 Technical Skills Demonstrated
+
+This project showcases proficiency in:
+
+- **Machine Learning**: Regression algorithms, model evaluation, hyperparameter tuning
+- **Data Science**: Feature engineering, data preprocessing, statistical analysis
+- **Python Libraries**: pandas, numpy, scikit-learn, matplotlib
+- **Software Engineering**: Clean code structure, documentation, version control
+- **Project Management**: Professional README, organized file structure, reproducible results
+- **Best Practices**: Virtual environments, requirements management, proper Git usage
+
+## 💡 Project Highlights
+
+- ✅ **Complete ML Pipeline**: From raw data to final predictions
+- ✅ **Model Optimization**: GridSearchCV for best performance
+- ✅ **Professional Documentation**: Clear, comprehensive project explanation
+- ✅ **Reproducible Results**: Anyone can run and verify the model
+- ✅ **Industry Standards**: Follows ML engineering best practices
