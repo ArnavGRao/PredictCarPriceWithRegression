@@ -8,11 +8,11 @@
 
 **Portfolio Project**: A comprehensive machine learning project that predicts car prices using various regression algorithms. This project demonstrates data preprocessing, feature engineering, model comparison, and hyperparameter tuning techniques for showcase to potential employers.
 
-## 🚗 Project Overview
+## Project Overview
 
 This project uses machine learning algorithms to predict car prices based on various features such as engine specifications, fuel type, body style, and more. The model is trained on a dataset containing detailed information about different car models and their corresponding prices.
 
-## 📊 Dataset
+## Dataset
 
 **Source**: [Kaggle - Car Price Prediction Dataset](https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/code?datasetId=383055&sortBy=voteCount)
 
@@ -29,7 +29,7 @@ The dataset contains information about cars with the following key features:
 - `CarPrice_Assignment.csv` - Main dataset with car features and prices
 - `Data Dictionary - carprices.xlsx` - Detailed description of all features
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **pandas** - Data manipulation and analysis
@@ -38,7 +38,7 @@ The dataset contains information about cars with the following key features:
 - **matplotlib** - Data visualization
 - **Custom transformers** - Log transformation for specific features
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 PredictCarPrice/
@@ -55,7 +55,7 @@ PredictCarPrice/
 └── README.md                        # This file
 ```
 
-## 🔧 Features & Data Processing
+## Features & Data Processing
 
 ### Feature Engineering
 
@@ -70,7 +70,7 @@ PredictCarPrice/
 2. **RobustScaler**: Scales numerical features while being robust to outliers
 3. **OneHotEncoder**: Converts categorical variables to numerical format
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The project evaluates multiple regression algorithms:
 
@@ -92,7 +92,7 @@ The Random Forest model is optimized using GridSearchCV with the following param
 - `max_features`: [2, 4, 6, 8]
 - `bootstrap`: [True, False]
 
-## 📈 Results
+## Results
 
 The final Random Forest model provides:
 
@@ -100,7 +100,7 @@ The final Random Forest model provides:
 - **Test set RMSE** for final model evaluation
 - **Feature importance** analysis showing which car attributes most influence price
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**:
 
@@ -126,7 +126,7 @@ The final Random Forest model provides:
    python main.py
    ```
 
-## 📋 Key Functions
+## Key Functions
 
 ### `main.py`
 
@@ -149,7 +149,7 @@ The final Random Forest model provides:
 
 - `LogTransformer`: Custom sklearn transformer for log transformation
 
-## 📊 Model Performance
+## Model Performance
 
 The project includes comprehensive model evaluation:
 
@@ -158,56 +158,23 @@ The project includes comprehensive model evaluation:
 - **Feature importance rankings** to understand which car attributes drive price predictions
 - **Test set evaluation** for final model performance assessment
 
-## 🎯 Key Learnings
+## Key Learnings
 
 This portfolio project demonstrates:
 
-- 🔄 **End-to-end ML pipeline** from data loading to model evaluation
-- 🧹 **Proper data preprocessing** techniques for mixed data types
-- ⚖️ **Model comparison** and selection methodology
-- 🎯 **Hyperparameter optimization** using grid search
-- 🔧 **Custom transformer creation** for specialized preprocessing needs
-- 📊 **Professional project structure** with proper documentation
-- 💼 **Industry-standard practices** for machine learning projects
+- **End-to-end ML pipeline** from data loading to model evaluation
+- **Proper data preprocessing** techniques for mixed data types
+- **Model comparison** and selection methodology
+- **Hyperparameter optimization** using grid search
+- **Custom transformer creation** for specialized preprocessing needs
 
-## 👨‍💻 Author
+## Author
 
 **ArnavGRao**
 
 - GitHub: [@ArnavGRao](https://github.com/ArnavGRao)
 - Email: arnavgrao@gmail.com
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
-
-## 📝 Portfolio Note
-
-This is a **completed portfolio project** designed to showcase machine learning skills and best practices. It demonstrates proficiency in Python, scikit-learn, data preprocessing, model evaluation, and professional project structure. The project is feature-complete and not actively maintained for new development.
-
-**For Employers**: This project showcases experience with:
-
-- Machine Learning model development and evaluation
-- Data preprocessing and feature engineering
-- Professional Python code structure and documentation
-- Git version control and project organization
-- Industry-standard ML practices and methodologies
-
-## 🚀 Technical Skills Demonstrated
-
-This project showcases proficiency in:
-
-- **Machine Learning**: Regression algorithms, model evaluation, hyperparameter tuning
-- **Data Science**: Feature engineering, data preprocessing, statistical analysis
-- **Python Libraries**: pandas, numpy, scikit-learn, matplotlib
-- **Software Engineering**: Clean code structure, documentation, version control
-- **Project Management**: Professional README, organized file structure, reproducible results
-- **Best Practices**: Virtual environments, requirements management, proper Git usage
-
-## 💡 Project Highlights
-
-- ✅ **Complete ML Pipeline**: From raw data to final predictions
-- ✅ **Model Optimization**: GridSearchCV for best performance
-- ✅ **Professional Documentation**: Clear, comprehensive project explanation
-- ✅ **Reproducible Results**: Anyone can run and verify the model
-- ✅ **Industry Standards**: Follows ML engineering best practices
