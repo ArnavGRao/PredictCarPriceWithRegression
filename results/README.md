@@ -2,7 +2,7 @@
 
 **Portfolio Context**: This folder contains the outputs and results from the completed car price prediction model, demonstrating machine learning proficiency for employer showcase.
 
-## 📊 What's Included
+## What's Included
 
 ### Model Performance Metrics
 
@@ -22,7 +22,7 @@
 - Real prediction vs. actual price comparisons
 - Performance validation on unseen test data
 
-## 🏆 Portfolio Highlights
+## Portfolio Highlights
 
 ### Achieved Performance
 
@@ -47,37 +47,13 @@ The model successfully identified these features as most predictive of car price
 - **Model Selection**: Random Forest outperformed linear and decision tree approaches
 - **Optimization**: GridSearchCV identified optimal hyperparameters systematically
 
-## 💼 For Employers
-
-This project demonstrates:
-
-- **End-to-end ML pipeline** development and execution
-- **Professional model evaluation** with cross-validation
-- **Business-relevant insights** from feature importance analysis
-- **Industry-standard practices** in model selection and optimization
-- **Clear documentation** of results and methodology
-
-## 🔄 Reproducibility
+## Reproducibility
 
 All results are fully reproducible by running:
 
 ```bash
 python main.py
 ```
-
-The script outputs:
-
-- Detailed model performance metrics
-- Feature importance rankings
-- Final test set evaluation scores
-- Professional summary of findings
-
-## 📝 Technical Notes
-
-- **Consistency**: Results may vary slightly due to random forest initialization
-- **Validation**: Cross-validation ensures robust performance estimates
-- **Interpretability**: Feature importance provides business insights
-- **Standards**: Follows ML engineering best practices throughout
 
 ---
 
